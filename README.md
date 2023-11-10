@@ -6,11 +6,9 @@
 
 ### https://chatifynew.vercel.app/
 
-<div align="center">
-  <img alt="Demo" src="./Assets/chatify.png" />
-</div>
+![WhatsApp Image 2023-11-10 at 11 49 15 PM](https://github.com/rahulgouda7/Chatify/assets/94516425/a752c8f3-5210-4dc7-bccb-aa68c50e16fd)
 
-</div>
+
 
 ## Build With
 
