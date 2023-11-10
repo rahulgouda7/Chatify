@@ -6,8 +6,7 @@
 
 ### https://chatifynew.vercel.app/
 
-
-
+![Screenshot 2023-11-10 235837](https://github.com/rahulgouda7/Chatify/assets/94516425/38054a53-71aa-44e1-9192-540363aa6d17)
 
 
 ## Build With
