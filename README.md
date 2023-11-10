@@ -6,7 +6,8 @@
 
 ### https://chatifynew.vercel.app/
 
-![WhatsApp Image 2023-11-10 at 11 49 15 PM](https://github.com/rahulgouda7/Chatify/assets/94516425/a752c8f3-5210-4dc7-bccb-aa68c50e16fd)
+![Screenshot 2023-11-10 235837](https://github.com/rahulgouda7/Chatify/assets/94516425/45165fae-2677-4fd9-aa8c-69b7e869bcdd)
+
 
 
 
@@ -29,7 +30,7 @@
 
 ### Clone this repository
 
-`git clone https://github.com/soumyajit4419/Chatify.git` <br/>
+`git clone https://github.com/rahulgouda7/Chatify.git` <br/>
 `cd chatify`
 
 ### Install Dependencies
